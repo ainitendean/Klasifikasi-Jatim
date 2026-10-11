@@ -1,0 +1,53 @@
+{
+ "kelas": {
+  "0": {
+   "nama": "Sawah",
+   "warna": "#f2c94c"
+  },
+  "1": {
+   "nama": "Bangunan",
+   "warna": "#e53935"
+  },
+  "2": {
+   "nama": "Mangrove",
+   "warna": "#1b5e20"
+  },
+  "3": {
+   "nama": "Lahan hijau",
+   "warna": "#7cb342"
+  },
+  "4": {
+   "nama": "Laut",
+   "warna": "#0d47a1"
+  },
+  "5": {
+   "nama": "Danau",
+   "warna": "#26c6da"
+  }
+ },
+ "aoi": {
+  "Jawa Timur": {
+   "png": "hasil_klasifikasi.png",
+   "bounds": [
+    [
+     -8.830550744236113,
+     110.84528624895685
+    ],
+    [
+     -4.9929654046744885,
+     116.3203131982921
+    ]
+   ],
+   "tanggal": "2025-10-30 s.d. 2026-10-30",
+   "awan": 40
+  }
+ },
+ "pusat": [
+  -6.911758074455301,
+  113.58279972362448
+ ],
+ "zoom": 8,
+ "model_terbaik": "Random Forest",
+ "akurasi_uji": 0.9444444444444444,
+ "kappa_uji": 0.9333333333333333
+}

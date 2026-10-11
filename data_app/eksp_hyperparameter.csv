@@ -1,0 +1,9 @@
+params,mean_test_score,std_test_score
+"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 200}",0.9028,0.0372
+"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}",0.9028,0.0372
+"{'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 200}",0.9028,0.0372
+"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 400}",0.9005,0.0403
+"{'max_depth': 20, 'min_samples_leaf': 2, 'n_estimators': 400}",0.9005,0.0343
+"{'max_depth': None, 'min_samples_leaf': 2, 'n_estimators': 400}",0.9005,0.0343
+"{'max_depth': 10, 'min_samples_leaf': 2, 'n_estimators': 400}",0.9005,0.0343
+"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 400}",0.9005,0.0403

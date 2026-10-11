@@ -1,0 +1,6 @@
+Skenario,Jumlah fitur,Akurasi CV,Std
+E. Band + indeks (18 fitur),18,0.904,0.0389
+B. 10 band,10,0.8924,0.0406
+C. 8 indeks,8,0.8704,0.0405
+"D. Indeks pilihan (NDVI,MNDWI,NDBI,BSI)",4,0.8438,0.048
+"A. 4 band 10 m (B2,B3,B4,B8)",4,0.7789,0.0383
