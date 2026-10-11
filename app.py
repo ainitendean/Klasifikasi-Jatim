@@ -55,6 +55,7 @@ periode = next(iter(meta["aoi"].values())).get("tanggal", "")
 st.title("Sistem Informasi Penggunaan Lahan Jawa Timur")
 st.caption(f"Klasifikasi tutupan lahan dari citra Sentinel-2 ({periode}): "
            "sawah, bangunan, mangrove, lahan hijau, laut, dan danau.")
+st.markdown("**Disusun oleh:** Rachelia Andini Tendean (240411100007) | Kelas A | Mata kuliah Proyek Sains Data")
 
 tab_peta, tab_luas, tab_data, tab_model, tab_proses, tab_unduh = st.tabs(
     ["Peta", "Statistik luas", "Data sampel", "Model", "Proses", "Unduhan"])
