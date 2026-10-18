@@ -12,6 +12,7 @@ st.set_page_config(page_title="SIG Penggunaan Lahan Jawa Timur", layout="wide")
 st.title("Sistem Informasi Penggunaan Lahan Jawa Timur")
 st.caption("Klasifikasi tutupan lahan Sentinel-2A: sawah, bangunan, mangrove, "
            "lahan hijau, laut, dan danau.")
+st.caption("Dibuat oleh: Rachelia Andini Tendean — NIM 240411100007")
 
 if not (DATA / "meta.json").exists() or not (DATA / "peta.html").exists():
     st.error("Folder data_app belum lengkap (meta.json atau peta.html tidak ditemukan). "
