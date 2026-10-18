@@ -1,0 +1,4 @@
+Model,Akurasi CV,F1 macro CV,Akurasi uji,F1 macro uji
+Random Forest,0.8981,0.8974,0.9167,0.9137
+KNN,0.8901,0.8892,0.9028,0.9004
+Decision Tree,0.8241,0.8222,0.8889,0.8869

@@ -1,0 +1,7 @@
+Kelas,Prediksi: Sawah,Prediksi: Bangunan,Prediksi: Mangrove,Prediksi: Lahan hijau,Prediksi: Laut,Prediksi: Danau
+Aktual: Sawah,12,0,0,0,0,0
+Aktual: Bangunan,1,11,0,0,0,0
+Aktual: Mangrove,0,0,12,0,0,0
+Aktual: Lahan hijau,1,1,1,9,0,0
+Aktual: Laut,0,0,0,0,12,0
+Aktual: Danau,0,0,0,0,0,12

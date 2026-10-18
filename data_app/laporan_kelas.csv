@@ -1,0 +1,7 @@
+Kelas,precision,recall,f1-score,support
+Sawah,0.857,1.0,0.923,12.0
+Bangunan,0.917,0.917,0.917,12.0
+Mangrove,0.923,1.0,0.96,12.0
+Lahan hijau,1.0,0.75,0.857,12.0
+Laut,1.0,1.0,1.0,12.0
+Danau,1.0,1.0,1.0,12.0
